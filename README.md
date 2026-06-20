@@ -1,22 +1,22 @@
-    # bfstore Developer Platform
+# bfstore Developer Platform
 
-    Developer platform and golden-path tooling for bfstore, including service templates, onboarding workflows, platform standards, local development guidance, and developer experience patterns.
+Developer platform and golden-path tooling for bfstore, including service templates, onboarding workflows, platform standards, local development guidance, and developer experience patterns.
 
-    ## Repository status
+## Repository status
 
-    This repository is an early bfstore portfolio repository. It is currently being set up with initial structure, documentation, and direction before implementation work begins.
+This repository is an early bfstore portfolio repository. It is currently being set up with initial structure, documentation, and direction before implementation work begins.
 
-    ## Purpose
+## Purpose
 
-    This repository will hold developer platform assets that make bfstore services easier, safer, and faster to build and operate.
+This repository will hold developer platform assets that make bfstore services easier, safer, and faster to build and operate.
 
-    bfstore is a cloud-native ecommerce platform for developer-themed homeware. This repository is part of the wider bfstore portfolio and is intended to demonstrate senior platform engineering, DevSecOps, Kubernetes, cloud infrastructure, and developer experience capability.
+bfstore is a cloud-native ecommerce platform for developer-themed homeware. This repository is part of the wider bfstore portfolio and is intended to demonstrate senior platform engineering, DevSecOps, Kubernetes, cloud infrastructure, and developer experience capability.
 
-    ## Scope
+## Scope
 
-    This repository will cover:
+This repository will cover:
 
-    - Golden-path service templates
+- Golden-path service templates
 - Developer onboarding workflows
 - Local development standards
 - Platform engineering documentation
@@ -28,14 +28,14 @@
 
     This repository will not own:
 
-    - Application business logic
+- Application business logic
 - Cloud infrastructure state
 - Security policy source-of-truth
 - Long-lived Kubernetes GitOps state
 
-    ## Suggested repository structure
+    ## Repository structure
 
-    - `templates/            # Service and documentation templates`
+- `templates/            # Service and documentation templates`
 - `docs/                 # Golden paths, onboarding, standards`
 - `scripts/              # Developer workflow helpers`
 - `examples/             # Example generated services or workflows`
@@ -43,7 +43,7 @@
 
     ## Initial roadmap
 
-    - [ ] Define first bfstore service golden path
+- [ ] Define first bfstore service golden path
 - [ ] Create service README and ADR templates
 - [ ] Add local development onboarding flow
 - [ ] Add standard observability/logging guidance links
