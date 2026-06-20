@@ -1,5 +1,7 @@
 # bfstore Developer Platform
 
+![bfstore - Borough Furniture Store logo](bfstore_devx_logo.png)
+
 Developer platform and golden-path tooling for bfstore, including service templates, onboarding workflows, platform standards, local development guidance, and developer experience patterns.
 
 ## Repository status
